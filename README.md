@@ -5,13 +5,13 @@ CI扩展
 -------------------
 扩展内容
 ------------------------
-- ####directory_helper.php
+- directory_helper.php
 
 |函数|扩展功能 | 
 | :--------: |:--------:| 
 |directory_map_by_array| 支持数组遍历文件的功能 | 
 
-- ####date_helper.php
+- date_helper.php
 
 |函数|扩展功能 | 
 | :--------: |:--------:| 
